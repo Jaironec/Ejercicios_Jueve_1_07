@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/Fucion Factorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/CLionProjects/Fucion Factorial/cmake-build-debug/CMakeFiles/Fucion_Factorial.dir
+C:/Users/PC/CLionProjects/Fucion Factorial/cmake-build-debug/CMakeFiles/edit_cache.dir

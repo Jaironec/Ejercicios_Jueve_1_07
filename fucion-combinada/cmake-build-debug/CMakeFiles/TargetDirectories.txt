@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/fucion-combinada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/fucion-combinada/cmake-build-debug/CMakeFiles/fucion_combinada.dir
+C:/Users/PC/CLionProjects/fucion-combinada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
